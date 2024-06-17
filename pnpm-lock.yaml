@@ -562,7 +562,7 @@ packages:
     resolution: {integrity: sha512-TkRKr9sUTxEH8MdfuCSP7VizJyzRNMjj2J2do2Jr3Kym598JVdEksuzPQCnlFPW4ky9Q+iA+ma9BGm06XQBy8g==}
     engines: {node: '>= 0.6'}
     dependencies:
-      media-typer: registry.nlark.com/media-typer@0.3.0
+      media-typer: registry.npmmirror.com/media-typer@0.3.0
       mime-types: 2.1.35
     dev: false
 
