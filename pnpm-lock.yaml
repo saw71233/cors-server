@@ -590,14 +590,14 @@ packages:
       vary: 1.1.2
     dev: false
 
-  registry.nlark.com/media-typer@0.3.0:
+  registry.npmmirror.com/media-typer@0.3.0:
     resolution: {integrity: sha1-hxDXrwqmJvj/+hzgAWhUUmMlV0g=, registry: https://registry.npmmirror.com/, tarball: https://registry.nlark.com/media-typer/download/media-typer-0.3.0.tgz}
     name: media-typer
     version: 0.3.0
     engines: {node: '>= 0.6'}
     dev: false
 
-  registry.nlark.com/setprototypeof@1.2.0:
+  registry.npmmirror.com/setprototypeof@1.2.0:
     resolution: {integrity: sha1-ZsmiSnP5/CjL5msJ/tPTPcrxtCQ=, registry: https://registry.npmmirror.com/, tarball: https://registry.nlark.com/setprototypeof/download/setprototypeof-1.2.0.tgz}
     name: setprototypeof
     version: 1.2.0
